@@ -1,0 +1,4 @@
+Hello, this is my test file.
+This line was added using appendFile.
+This line was added using appendFile.
+This line was added using appendFile.
